@@ -1,1 +1,1 @@
-local executor = {"Hyper X", "jjsploit", "EasyExploit", "FerestZ", "Evon", "Trigon", "Kiwi"}
+local executor = {"Hyper X", "jjsploit", "EasyExploit", "Evon", "Trigon", "Kiwi", "Coco", "Sentinel", "Anemo"}
