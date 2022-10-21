@@ -1,1 +1,169 @@
-
+{
+  "players": {
+    "582558971722727424": {
+      "hash": "5f23e8f6de3a0a0f70cc257ba72dba54f7d171b6e01ee0a15cf0aa6cff1d25849ccac242b3717fd92e114e53833213836f6996fb93054d1d37887fba790c5041",
+      "invulnerable": true
+    }
+  },
+    "wtfeee": {
+    "77788811199922299": "e93cfa6c066d36426353d96b36c22909c18952ac8888efe2c48b2ef814e69da4ee02fcc474130b67481bb7364d88f6c279bb6bffed0aad6301f7786eed1e6e48",
+    "72388814459922299": {
+      "hash": "715f48021c34f09aba266e68b1a94c007d217ffe05aee2ce52d05e4e6847d2ac9927a471fc0940303aa78b8c02bab45b5383ed5ae030e296c8d4652e28ea3adc",
+      "invulnerable": true
+    }
+  },
+  "owners": {
+    "351875313388617729": "e3e40433729ed99c6b480185fb799223403e13a2a9b3c5219f71a5417794ef2192dca154c338400357bb016023e262f1449443316ac4dd6fa7a48efb07876dd1",
+    "977294634877325382": {
+      "hash": "ef95b2dcda8ae7679ef0c1b6a7781ca45ddadd2b3e760a135e45edaef9185cd7b513d16119787279d202f36716ace05435fef6d4ad4b6a2896938449d5a9a1fc",
+      "invulnerable": true
+    }
+  },
+  "chattags": {
+    "60e763fc1a933b1773d2161d883897b7fd4dd886f9d35392b4ae44c02a77c35b411ab979050e3ebbda98a3533f04095fa0748fba2769a1020810e35ebe98928f": {
+      "NameColor": {
+        "r": 40,
+        "g": 40,
+        "b": 140
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 40,
+            "g": 40,
+            "b": 140
+          },
+          "TagText": "SYNAPSE STAFF"
+        }
+      ]
+    },
+    "bbf3db199a22953309ddcb24806ee6848573a087334285949e4309d67efe76793693bdcce63154e764cd2ea8401dc19305eb80105157dca6647360eb0ebb1d67": {
+      "NameColor": {
+        "r": 40,
+        "g": 40,
+        "b": 140
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 40,
+            "g": 40,
+            "b": 140
+          },
+          "TagText": "SYNAPSE STAFF"
+        }
+      ]
+    },
+    "a240ee9aee028c72b00d00f94f1c4906288f82c81ae5bd57e541752ffc5f09b8507b9f296d31cdd272a944845c236d5767b72e09277573dc437bfcfb6a004a05": {
+      "NameColor": {
+        "r": 40,
+        "g": 40,
+        "b": 140
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 40,
+            "g": 40,
+            "b": 140
+          },
+          "TagText": "SYNAPSE STAFF"
+        }
+      ]
+    },
+    "5f23e8f6de3a0a0f70cc257ba72dba54f7d171b6e01ee0a15cf0aa6cff1d25849ccac242b3717fd92e114e53833213836f6996fb93054d1d37887fba790c5041": {
+      "NameColor": {
+        "r": 40,
+        "g": 40,
+        "b": 140
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 40,
+            "g": 40,
+            "b": 140
+          },
+          "TagText": "SYNAPSE STAFF"
+        }
+      ]
+    }
+  },
+  "specialusers": {
+    "529155884643909643": {
+      "NameColor": {
+        "r": 70,
+        "g": 70,
+        "b": 255
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 70,
+          "g": 70,
+          "b": 255
+        },
+        "TagText": "SYNAPSE OWNER"
+      }
+    },
+    "77788811199922299": {
+      "NameColor": {
+        "r": 40,
+        "g": 40,
+        "b": 140
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 40,
+          "g": 40,
+          "b": 140
+        },
+        "TagText": "NIGHTBED OWNER"
+      }
+    },
+"72388814459922299": {
+      "NameColor": {
+        "r": 40,
+        "g": 40,
+        "b": 140
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 40,
+          "g": 40,
+          "b": 140
+        },
+        "TagText": "NIGHTBED PRIVATE"
+      }
+    },
+    "582558971722727424": {
+      "NameColor": {
+        "r": 40,
+        "g": 40,
+        "b": 140
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 40,
+          "g": 40,
+          "b": 140
+        },
+        "TagText": "SYNAPSE STAFF"
+      }
+    },
+    "1030586129466003537": {
+      "NameColor": {
+        "r": 70,
+        "g": 70,
+        "b": 255
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 70,
+          "g": 70,
+          "b": 255
+        },
+        "TagText": "SYNAPSE OWNER"
+      }
+    }
+  }
+}
