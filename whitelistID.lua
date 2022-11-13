@@ -3,7 +3,7 @@ local whitelistID = {
    ["MoniaMain"] = "2012715343"
  }
 return whitelistID
-
+--[[
 local Clients = {
   ChatStrings1 = {
 		["KVOP25KYFPPP4"] = "vape",
@@ -19,3 +19,4 @@ local Clients = {
 	},
 	ClientUsers = {}
 } -- fron vape lol
+--]]
