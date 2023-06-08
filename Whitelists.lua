@@ -1,4 +1,10 @@
-local whitelistID = {
-  "4589581089"
+local Whitelist = {}
+Whitelist.UserIds = {
+  [4589581089] = true
 }
-return whitelistID
+
+function Whitelist.IsWhitelisted(plr)
+  return Whitelist.UserIds[plr.UserId] == true
+end
+
+return Whitelist
